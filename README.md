@@ -1,0 +1,1 @@
+Este projeto simula uma biblioteca de mídia digital, com músicas e podcasts. Cada item possui informações como título, autor, duração, gênero, e conta com métodos para ser reproduzido e curtido. A classificação de cada conteúdo é calculada dinamicamente com base em curtidas ou reproduções.
